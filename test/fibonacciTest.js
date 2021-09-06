@@ -1,3 +1,9 @@
+/*
+Group members
+KAYEGI PRISCILLA
+MALINGA ROBERT 
+*/
+
 const assert = require('chai').assert;
 const fibonacci = require('../fibonacci');
 
